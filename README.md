@@ -104,7 +104,7 @@ I have deep expertise in:
 ---
 
 ## 📬 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bharatchavod)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bharat-chavod/) 
 - 📧 **Email:** [chavodbharat@gmail.com](mailto:chavodbharat@gmail.com)  
 - 📱 **WhatsApp:** [+91 8238079203](https://wa.me/918238079203)  
 - 🌐 [Portfolio Website](https://codieslab.com)  
