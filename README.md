@@ -16,7 +16,7 @@
 
 </p>
 
-# 🚀 Bharat Chavod — Full Stack Architect | Laravel, Vue.js, MERN, WordPress & AI Solutions
+# 🚀 Bharat Chavod — Claude AI + Vibe Coding Expert | Full Stack Architect | Laravel, Vue.js, MERN, WordPress & AI Solutions
 
 ## 👋 About Me
 With **10+ years of experience** in building high-performance, scalable, and secure web applications,  
