@@ -19,8 +19,9 @@
 # 🚀 Bharat Chavod — Claude AI + Vibe Coding Expert | Full Stack Architect | Ruby on Rails | Laravel,Next.js,Vue.js, MERN,Sanity CMS, WordPress CMS, Webflow CMS & AI Solutions
 
 ## 👋 About Me
-**I'm a Developer | Thinker | Learner | Problem Solver
-**
+
+I'm a Developer | Thinker | Learner | Problem Solver
+
 With **10+ years of experience** in building high-performance, scalable, and secure web applications,  
 I specialize in delivering **end-to-end digital solutions** tailored to client needs — from concept to deployment.
 
