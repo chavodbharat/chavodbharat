@@ -16,7 +16,7 @@
 
 </p>
 
-# 🚀 Full Stack Engineer & AI Integration Specialist | Laravel · Next.js · React · Vue · Node.js · MERN · WordPress · Sanity CMS
+# 🚀 Full Stack Engineer & AI Integration Specialist | Mobile APP | Laravel · Next.js · React · Vue · Node.js · MERN · WordPress · Sanity CMS
 
 ## 👋 About Me
 
